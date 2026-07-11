@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Complete+MCQ+Management+Backend+API;Question+Bank+Management;Categories+%26+Subcategories;JWT+Authentication+%7C+Role-Based+Access;Node.js+%7C+Express.js+%7C+MongoDB"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A855F7&height=220&section=header&text=%20MCQ%20Management%20System%20API&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 > A production-style backend application built with **Node.js, Express.js, MongoDB, and JWT Authentication** that allows users to register, verify their email, manage profiles, browse categorized multiple-choice questions, submit answers, and generate analytics using MongoDB Aggregation.
