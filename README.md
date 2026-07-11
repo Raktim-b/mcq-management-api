@@ -1,4 +1,6 @@
-# ❓ MCQ Management System API
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Complete+MCQ+Management+Backend+API;Question+Bank+Management;Categories+%26+Subcategories;JWT+Authentication+%7C+Role-Based+Access;Node.js+%7C+Express.js+%7C+MongoDB"/>
+</p>
 
 > A production-style backend application built with **Node.js, Express.js, MongoDB, and JWT Authentication** that allows users to register, verify their email, manage profiles, browse categorized multiple-choice questions, submit answers, and generate analytics using MongoDB Aggregation.
 
