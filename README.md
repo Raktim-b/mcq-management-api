@@ -399,7 +399,7 @@ This project demonstrates practical experience with:
 
 # 👨‍💻 Author
 
-## Srinu
+## Raktim Bhattacharya
 
 **Backend Developer**
 
